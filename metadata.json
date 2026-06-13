@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Genius",
+  "description": "Smart Android study assistant for explaining topics, summarizing notes, generating quizzes and essays via OpenRouter AI models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
