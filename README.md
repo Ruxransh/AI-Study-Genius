@@ -1,3 +1,10 @@
+## 🚀 App Preview
+
+<p align="center">
+  <img src="screenshots/1781339582897.jpg" width="250"/>
+  <img src="screenshots/1781339582901.png" width="250"/>
+  <img src="screenshots/1781339582906.png" width="250"/>
+</p>
 🚀 AI Study Genius
 🧠 Overview
 
