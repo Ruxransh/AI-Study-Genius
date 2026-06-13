@@ -50,3 +50,6 @@ Rudransh Sharma
 ## License
 
 This project was created for educational and hackathon purposes.
+
+This project integrates Microsoft Foundry IQ as the intelligence layer to enhance AI reasoning and structured response generation for educational content and quiz creation. It enables more reliable multi-step reasoning and improves the quality of generated study material and quiz outputs.
+
