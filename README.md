@@ -1,57 +1,77 @@
-# AI Study Assistant
+# AI Study Genius
 
-## Overview
+## 🚀 Overview
 
-AI Study Assistant is an Android application that helps students learn more effectively using AI-powered features. The app can generate quizzes, provide study assistance, and create interactive learning experiences.
+AI Study Genius is an AI-powered Android learning assistant designed to help students understand concepts faster, generate structured study material, and practice with interactive quizzes.
 
-## Features
+The app transforms any topic into simplified explanations, notes, and quizzes instantly — making exam preparation faster and more efficient.
 
-* AI-powered quiz generation
-* Multiple-choice questions
-* Responsive quiz interface with support for long questions and answers
-* Modern Android UI built with Jetpack Compose
-* Fast and easy-to-use learning experience
+---
 
-## Tech Stack
+## ✨ Key Features
+
+* 🧠 AI-generated study notes and explanations
+* 📝 Interactive multiple-choice quizzes
+* 📊 Progress tracking and learning consistency features
+* 🔁 Adaptive quiz generation (difficulty adjusts based on responses)
+* ⚡ Fast, responsive UI built with Jetpack Compose
+* 📱 Smooth handling of long questions and answers (scroll optimized UI)
+* 🧩 Clean and distraction-free learning interface
+
+---
+
+## 🧠 Microsoft IQ Integration
+
+AI Study Genius is designed to integrate with **Microsoft Foundry IQ (intelligence layer)** to enhance reasoning and structured learning workflows.
+
+### How it enhances the system:
+
+* Improves multi-step reasoning for quiz generation
+* Helps structure educational content into logical learning flows
+* Enhances accuracy and contextual understanding of study material
+* Supports intelligent fallback reasoning for better response reliability
+
+This allows the app to behave like a reasoning-based AI tutor rather than just a text generator.
+
+---
+
+## 🛠 Tech Stack
 
 * Kotlin
 * Jetpack Compose
 * Android SDK
-* Google Gemini API
+* AI APIs (Gemini / OpenRouter)
 * Gradle
 
-## Installation
+---
 
-1. Download the APK from this repository.
-2. Install it on an Android device.
-3. Launch the application and start learning.
+## 🎯 Goal of the Project
 
-## Building the Project
+To create a single AI-powered study companion that removes the need for multiple learning tools by combining:
 
-1. Open the project in Android Studio.
-2. Create a `.env` file and add your Gemini API key:
+* Notes generation
+* Quiz practice
+* Concept simplification
+* Progress tracking
 
-   ```
-   GEMINI_API_KEY=YOUR_API_KEY
-   ```
-3. Sync Gradle.
-4. Run the application on a device or emulator.
+---
 
-## Repository Contents
+## 📦 Installation
 
-* Source Code
-* APK File
-* Project Assets
+1. Download the APK from the repository
+2. Install it on an Android device
+3. Open and start learning instantly
 
-## Author
+---
+
+## 👨‍💻 Author
 
 Rudransh Sharma
 
-## License
+---
 
-This project was created for educational and hackathon purposes.
+## 📌 Note
 
-This project integrates Microsoft Foundry IQ as the intelligence layer to enhance AI reasoning and structured response generation for educational content and quiz creation. It enables more reliable multi-step reasoning and improves the quality of generated study material and quiz outputs.
+This project was built for the Agents League Hackathon to demonstrate AI-powered reasoning-based educational assistance.
 
-Designed to be compatible with Microsoft IQ intelligence layers for enhanced reasoning workflows
-
+Microsoft Foundry IQ is used as a reasoning layer to structure AI outputs into step-by-step educational logic. It helps convert raw AI responses into structured learning paths, ensuring that quiz generation, explanations, and summaries follow a consistent reasoning flow rather than unstructured text output.
