@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-AI Study Genius is an AI-powered Android learning assistant designed to help students understand concepts faster, generate structured study material, and practice with interactive quizzes.
+AI Study Genius is an AI-powered reasoning-based learning system that transforms any academic topic into structured learning paths, interactive quizzes, and personalized revision flow.
 
 The app transforms any topic into simplified explanations, notes, and quizzes instantly — making exam preparation faster and more efficient.
 
