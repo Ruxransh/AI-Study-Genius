@@ -1,77 +1,69 @@
-# AI Study Genius
+🚀 AI Study Genius
+🧠 Overview
 
-## 🚀 Overview
+AI Study Genius is an AI-powered reasoning-based learning system for Android that transforms any academic topic into structured learning paths, simplified explanations, and adaptive quizzes.
 
-AI Study Genius is an AI-powered reasoning-based learning system that transforms any academic topic into structured learning paths, interactive quizzes, and personalized revision flow.
+Instead of just generating raw AI text, the app organizes knowledge into a step-by-step learning flow — helping students understand concepts faster, revise efficiently, and test their understanding interactively.
 
-The app transforms any topic into simplified explanations, notes, and quizzes instantly — making exam preparation faster and more efficient.
+The goal is to act as a personal AI tutor that converts unstructured topics into exam-ready study material in seconds.
 
----
+✨ Key Features
 
-## ✨ Key Features
+🧠 AI-generated structured notes and simplified explanations
+📝 Interactive multiple-choice quizzes for self-assessment
+📊 Progress tracking for learning consistency
+🔁 Adaptive quiz generation based on user responses
+⚡ Fast and responsive Jetpack Compose UI
+📱 Smooth handling of long questions with scroll-optimized layouts
+🧩 Clean, distraction-free learning interface
+🎯 Instant conversion of topics into structured study material
 
-* 🧠 AI-generated study notes and explanations
-* 📝 Interactive multiple-choice quizzes
-* 📊 Progress tracking and learning consistency features
-* 🔁 Adaptive quiz generation (difficulty adjusts based on responses)
-* ⚡ Fast, responsive UI built with Jetpack Compose
-* 📱 Smooth handling of long questions and answers (scroll optimized UI)
-* 🧩 Clean and distraction-free learning interface
+🧠 Microsoft Foundry IQ Integration
 
----
+AI Study Genius is designed using a Foundry IQ-style reasoning pipeline that improves how AI-generated educational content is structured and delivered.
 
-## 🧠 Microsoft IQ Integration
+🔷 How it works in the system:
+Decomposition Phase: Breaks complex topics into structured sub-concepts (e.g., Physics → Laws → Formulas → Applications)
+Reasoning Phase: Converts raw AI responses into step-by-step explanations for better understanding
+Assessment Phase: Generates adaptive quizzes based on conceptual difficulty and user performance
 
-AI Study Genius is designed to integrate with **Microsoft Foundry IQ (intelligence layer)** to enhance reasoning and structured learning workflows.
+🎯 Impact of IQ-style reasoning:
+Improves multi-step reasoning for quiz generation
+Converts unstructured AI output into structured learning paths
+Enhances contextual accuracy of study material
+Enables adaptive learning based on user understanding level
+Makes the app behave like a reasoning-based AI tutor instead of a text generator
+🛠 Tech Stack
+Kotlin
+Jetpack Compose
+Android SDK
+AI APIs (Gemini / OpenRouter)
+Gradle
 
-### How it enhances the system:
+🎯 Project Goal
 
-* Improves multi-step reasoning for quiz generation
-* Helps structure educational content into logical learning flows
-* Enhances accuracy and contextual understanding of study material
-* Supports intelligent fallback reasoning for better response reliability
+To build an intelligent AI tutor that reduces learning complexity by transforming raw academic topics into structured, step-by-step learning experiences with interactive quizzes and adaptive feedback.
 
-This allows the app to behave like a reasoning-based AI tutor rather than just a text generator.
+This eliminates the need for multiple learning tools by combining:
 
----
+Notes generation
+Concept simplification
+Quiz practice
+Progress tracking
 
-## 🛠 Tech Stack
+into a single unified AI learning system.
 
-* Kotlin
-* Jetpack Compose
-* Android SDK
-* AI APIs (Gemini / OpenRouter)
-* Gradle
+📦 Installation
+Download the APK from the repository
+Install it on an Android device
+Open the app and start learning instantly
 
----
-
-## 🎯 Goal of the Project
-
-To create a single AI-powered study companion that removes the need for multiple learning tools by combining:
-
-* Notes generation
-* Quiz practice
-* Concept simplification
-* Progress tracking
-
----
-
-## 📦 Installation
-
-1. Download the APK from the repository
-2. Install it on an Android device
-3. Open and start learning instantly
-
----
-
-## 👨‍💻 Author
+👨‍💻 Author
 
 Rudransh Sharma
 
----
-
-## 📌 Note
+📌 Note
 
 This project was built for the Agents League Hackathon to demonstrate AI-powered reasoning-based educational assistance.
 
-Microsoft Foundry IQ is used as a reasoning layer to structure AI outputs into step-by-step educational logic. It helps convert raw AI responses into structured learning paths, ensuring that quiz generation, explanations, and summaries follow a consistent reasoning flow rather than unstructured text output.
+AI Study Genius focuses on transforming AI responses into structured educational logic using a Foundry IQ-style reasoning approach, ensuring that explanations, summaries, and quizzes follow a consistent learning flow rather than unstructured output.
