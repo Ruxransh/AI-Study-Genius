@@ -1,9 +1,12 @@
 ## 📸 App Screenshots
 
-![Home](Screenshots/1781339582897.png)
-![Quiz](Screenshots/1781339582901.png)
-![Notes](Screenshots/1781339582906.png)
+<div align="center">
 
+<img src="Screenshots/1781339582897.png" width="250"/>
+<img src="Screenshots/1781339582901.png" width="250"/>
+<img src="Screenshots/1781339582906.png" width="250"/>
+
+</div>
 🚀 AI Study Genius
 🧠 Overview
 
