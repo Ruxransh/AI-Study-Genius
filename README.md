@@ -95,9 +95,9 @@ Enter any topic and generate AI-powered study material
 
 Rudransh Sharma
 
-**Built for:
+Built for:
 🎯 Agents League Hackathon 2026
-**
+
 **📌 Note**
 
 AI Study Genius demonstrates how AI reasoning systems can be applied to education by combining structured learning, adaptive quizzes, and intelligent content generation into a single mobile experience.
